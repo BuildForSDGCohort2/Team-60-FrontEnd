@@ -3,7 +3,7 @@
 
 ## Team-60-FrontEnd Project
 
-*The front-end of the home page may look similar to what we have here
+**The front-end of the home page may look similar to what we have here
 
 
 ![Alt text](https://github.com/BuildForSDGCohort2/Team-60-FrontEnd/blob/develop/medistat%20frontend.jpg?raw=true "FrontEnd Design")
