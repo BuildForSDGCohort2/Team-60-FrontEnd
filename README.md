@@ -5,8 +5,8 @@
 
 *The front-end of the home page may look similar to what we have here
 
-https://github.com/BuildForSDGCohort2/Team-60-FrontEnd/blob/develop/medistat%20frontend.jpg
-![Alt text](/BuildForSDGCohort2/Team-60-FrontEnd/blob/develop/medistat%20frontend.jpg?raw=true "FrontEnd Design")
+
+![Alt text](https://github.com/BuildForSDGCohort2/Team-60-FrontEnd/blob/develop/medistat%20frontend.jpg?raw=true "FrontEnd Design")
 
 # **Medistatus**
 
